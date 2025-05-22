@@ -1,0 +1,9 @@
+requests
+nltk
+presidio-analyzer
+sentence-transformers
+transformers
+datasets
+torch
+flask
+gunicorn
